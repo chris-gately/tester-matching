@@ -15,7 +15,7 @@ Git, JDK11, Maven
 
 ### Check out sources
 
-`git clone `
+`git clone https://github.com/chris-gately/tester-matching.git`
 
 ### Compile
 
